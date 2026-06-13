@@ -40,3 +40,4 @@ echo "[9/9] Making shell scripts executable..."
 find "$HOME/.config/polybar" -type f -name "*.sh" -exec chmod +x {} \;
 
 echo "Installtion worked"
+echo "This is outdated version :O"
