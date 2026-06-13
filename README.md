@@ -1,4 +1,5 @@
 # Sukawm-white
-its just sukawm default blue rice but themed to white if your lazy to do it yourself 
-You need ShureTechMonoNerdFontMono or edit the font manual to any font you like
-I rec before installing checking the showcase imgs
+this is outdated version u can still use it i rec going into my codeberg its updated there
+this one dont require shuremonofont in dunst and polybar
+credit to void the creator if sukawm
+https://codeberg.org/nixosuser
