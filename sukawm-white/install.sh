@@ -36,7 +36,7 @@ cp -rvf kitty/* "$HOME/.config/kitty/"
 echo "[8/9] Copying Dunst files"
 cp -rvf dunst/* "$HOME/.config/dunst/"
 
-echo "[9/9] Making shell scripts executable..."
+echo "[9/9] Making shell scripts executable"
 find "$HOME/.config/polybar" -type f -name "*.sh" -exec chmod +x {} \;
 
 echo "Installtion worked"
