@@ -1,7 +1,8 @@
 # Sukawm-white
-this is outdated version u can still use it i rec going into my codeberg its updated there
-this one dont require shuremonofont in dunst and polybar
-credit to tndevreal the creator if sukawm
+This is outdated version it wont get any updates
+I recommend you use codeberg
+You dont need the ShureTechMonoNerdFontMono font for polybar and dunst
+Credit to tndevreal the creator if sukawm
 https://codeberg.org/nixosuser
 
 `
